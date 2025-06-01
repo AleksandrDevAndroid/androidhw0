@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "KotlinHw1"
+rootProject.name = "KotlinHw0"
 include(":app")
